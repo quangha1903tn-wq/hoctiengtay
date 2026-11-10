@@ -29,3 +29,6 @@
 .article-body{padding:12px 0 2px;color:#4f514b;line-height:1.75}
 .article-body h4{font-family:inherit;font-size:1rem;color:#303b31;margin:16px 0 6px}
 .article-body p{margin:0 0 12px}
+
+/* V7: slogan and common-core language direction */
+.hero-slogan{font-weight:750;color:var(--g)!important;border-left:3px solid var(--gold);padding-left:13px;margin-top:12px}

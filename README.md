@@ -1,4 +1,4 @@
-# Học tiếng Tày – V2 (website + quản trị + schema DB)
+# Học tiếng Tày – V7 (website + quản trị + schema DB)
 
 ## Chạy thử
 Mở `index.html` bằng trình duyệt hoặc chạy server tĩnh trong thư mục này:
@@ -52,6 +52,12 @@ Không đưa nội dung chưa xác minh vào từ điển công khai.
 - Dữ liệu nguồn được lưu tại `data/culture-resources.json`.
 - Đây là nội dung tổng hợp có trích nguồn, không phải bản sao giáo trình hoặc kho dữ liệu ngôn ngữ. Phương ngữ, lời Then, bài cúng, tên món ăn và phong tục cần được người am hiểu tại từng địa bàn xác minh.
 
+
+## V7 – Định hướng tiếng Tày phổ thông
+- Tiếng Tày phổ thông là lớp nội dung cốt lõi, hướng tới cách học dễ tiếp cận cho người học ở nhiều địa phương.
+- Các phương ngữ/biến thể vùng được bổ sung sau như lớp mở rộng, ghi rõ địa bàn và người xác minh; không tự suy đoán cách nói chuẩn.
+- Slogan: “Từ bản làng đến tương lai – Giữ gìn, phát triển văn hóa bản sắc dân tộc”.
+- Biểu mẫu quản trị và cộng tác viên cho phép ghi nhận địa bàn/người nói để phân loại biến thể vùng.
 
 ## V6 – Bài viết văn hóa mở rộng
 Các thẻ văn hóa có phần “Đọc bài viết đầy đủ” với nội dung nhiều đoạn, tiểu mục và lưu ý phạm vi địa phương. Nội dung cần tiếp tục được nghệ nhân/người nói tại Định Hóa thẩm định trước khi coi là tư liệu chuẩn.

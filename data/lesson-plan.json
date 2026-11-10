@@ -1,6 +1,6 @@
 {
-  "dialect": "Tiếng Tày – khu vực Thái Nguyên",
-  "content_policy": "Đây là khung biên soạn. Không phải nội dung tiếng Tày đã được thẩm định.",
+  "dialect": "Tiếng Tày phổ thông (lớp cốt lõi dùng chung); các phương ngữ/biến thể vùng được bổ sung riêng sau khi xác minh",
+  "content_policy": "Lấy tiếng Tày phổ thông làm nội dung cốt lõi dễ tiếp cận cho người học ở nhiều vùng. Không tự gán một cách nói địa phương là chuẩn phổ thông khi chưa có hội đồng/người bản ngữ thẩm định. Các biến thể vùng cần ghi rõ địa bàn, người cung cấp và nguồn xác minh.",
   "levels": [
     {
       "level": 1,
