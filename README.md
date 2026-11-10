@@ -44,3 +44,14 @@ Không đưa nội dung chưa xác minh vào từ điển công khai.
 - File ghi âm chưa được tải lên máy chủ; bản demo chỉ ghi tên file. Không nhập thông tin liên hệ thật cho đến khi hệ thống có backend và chính sách quyền riêng tư.
 - `supabase/schema.sql` đã bổ sung bảng `contributor_applications` và `community_submissions`, kèm chính sách cho phép gửi nhưng chỉ editor/admin mới được đọc và kiểm duyệt. Frontend hiện chưa kết nối các bảng này.
 - Việc đánh dấu duyệt trong bản demo không tự xuất bản nội dung. Chỉ công bố từ/câu sau khi có người bản ngữ Định Hóa xác minh.
+
+## Bổ sung V6 – Văn hóa và thư viện tham khảo
+- Thanh điều hướng có mục **Văn hóa Tày** và **Tư liệu**.
+- Trang chủ bổ sung các bài giới thiệu về Then/đàn tính, Lồng Tồng Định Hóa, lễ cầu an, dân ca, ẩm thực và nghề đan lát.
+- Có danh sách liên kết nguồn gốc (UNESCO, Cổng thông tin Thái Nguyên, Cục Di sản văn hóa và nguồn tham khảo từ điển).
+- Dữ liệu nguồn được lưu tại `data/culture-resources.json`.
+- Đây là nội dung tổng hợp có trích nguồn, không phải bản sao giáo trình hoặc kho dữ liệu ngôn ngữ. Phương ngữ, lời Then, bài cúng, tên món ăn và phong tục cần được người am hiểu tại từng địa bàn xác minh.
+
+
+## V6 – Bài viết văn hóa mở rộng
+Các thẻ văn hóa có phần “Đọc bài viết đầy đủ” với nội dung nhiều đoạn, tiểu mục và lưu ý phạm vi địa phương. Nội dung cần tiếp tục được nghệ nhân/người nói tại Định Hóa thẩm định trước khi coi là tư liệu chuẩn.

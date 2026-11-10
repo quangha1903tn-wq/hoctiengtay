@@ -1,0 +1,44 @@
+{
+  "title": "Thư viện văn hóa và tư liệu tiếng Tày",
+  "notice": "Tư liệu được tổng hợp từ nguồn công khai; cần ghi rõ địa bàn và đối chiếu với cộng đồng bản ngữ. Không sao chép nội dung/hình ảnh có bản quyền khi chưa được phép.",
+  "topics": [
+    "Thực hành Then và đàn tính",
+    "Lễ hội Lồng Tồng",
+    "Lễ cầu an",
+    "Dân ca và truyền dạy",
+    "Ẩm thực từ gạo nếp",
+    "Nghề đan lát"
+  ],
+  "sources": [
+    {
+      "name": "UNESCO – Thực hành Then",
+      "url": "https://ich.unesco.org/en/RL/practices-of-then-by-ty-nng-and-thi-ethnic-groups-in-viet-nam-01379",
+      "scope": "Di sản Then của người Tày, Nùng, Thái; ghi danh năm 2019."
+    },
+    {
+      "name": "Hồ sơ đề cử Then (PDF)",
+      "url": "https://ich.unesco.org/doc/src/38617.pdf",
+      "scope": "Hồ sơ quốc gia gửi UNESCO."
+    },
+    {
+      "name": "Cổng thông tin Thái Nguyên – Dân tộc Tày",
+      "url": "https://sodantoctongiao.thainguyen.gov.vn/cac-dan-toc-tinh-thai-nguyen/dan-toc-tay-176364",
+      "scope": "Thông tin khái quát về cộng đồng Tày tại Thái Nguyên."
+    },
+    {
+      "name": "Lễ hội Lồng Tồng Định Hóa – Phú Đình",
+      "url": "https://phudinh.thainguyen.gov.vn/tin-moi/trinh-dien-tai-hien-le-hoi-long-tong-cua-nguoi-tay-dinh-hoa-tai-xom-tin-keo-xa-phu-dinh-huyen-dinh--35479",
+      "scope": "Tư liệu địa phương."
+    },
+    {
+      "name": "Cục Di sản văn hóa – Nghề đan lát người Tày",
+      "url": "https://dsvh.gov.vn/nghe-dan-lat-cua-nguoi-tay-tinh-lao-cai-22356",
+      "scope": "Nghề đan lát ở Nghĩa Đô, Lào Cai."
+    },
+    {
+      "name": "Từ điển Tày – Việt – giới thiệu",
+      "url": "https://giaotrinh.edu.vn/detail/tu-dien-tay-viet",
+      "scope": "Trang giới thiệu từ điển tham khảo; cần kiểm chứng biến thể vùng."
+    }
+  ]
+}
