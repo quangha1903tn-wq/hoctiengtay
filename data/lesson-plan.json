@@ -1,0 +1,127 @@
+{
+  "dialect": "Tiếng Tày – khu vực Thái Nguyên",
+  "content_policy": "Đây là khung biên soạn. Không phải nội dung tiếng Tày đã được thẩm định.",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Nhập môn",
+      "units": [
+        {
+          "title": "Chào hỏi và làm quen",
+          "goals": [
+            "Chọn cách chào theo quan hệ và thời điểm",
+            "Giới thiệu tên và quê quán"
+          ],
+          "items": [
+            "Câu chào bản ngữ đã xác minh",
+            "Cách đáp lời",
+            "Tên riêng và địa danh",
+            "Hội thoại 2 người"
+          ],
+          "audio_needed": true
+        },
+        {
+          "title": "Gia đình và người thân",
+          "goals": [
+            "Gọi tên quan hệ gia đình",
+            "Dùng xưng hô phù hợp"
+          ],
+          "items": [
+            "Từ xưng hô",
+            "Sơ đồ gia đình",
+            "Hỏi thăm người thân"
+          ],
+          "audio_needed": true
+        },
+        {
+          "title": "Số đếm và thời gian",
+          "goals": [
+            "Đếm số cơ bản",
+            "Hỏi giờ và ngày"
+          ],
+          "items": [
+            "Số 0–20",
+            "Ngày trong tuần",
+            "Giờ giấc"
+          ],
+          "audio_needed": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Giao tiếp",
+      "units": [
+        {
+          "title": "Ở chợ và mua bán",
+          "goals": [
+            "Hỏi giá",
+            "Nói số lượng và lựa chọn"
+          ],
+          "items": [
+            "Tên mặt hàng",
+            "Mẫu hỏi giá",
+            "Đơn vị đếm"
+          ],
+          "audio_needed": true
+        },
+        {
+          "title": "Ăn uống và sinh hoạt",
+          "goals": [
+            "Gọi món",
+            "Nói sở thích và nhu cầu"
+          ],
+          "items": [
+            "Món ăn địa phương",
+            "Mời và cảm ơn",
+            "Hội thoại bữa cơm"
+          ],
+          "audio_needed": true
+        },
+        {
+          "title": "Hỏi đường và đi lại",
+          "goals": [
+            "Hỏi vị trí",
+            "Hiểu chỉ dẫn đơn giản"
+          ],
+          "items": [
+            "Địa điểm",
+            "Phương hướng",
+            "Phương tiện"
+          ],
+          "audio_needed": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Văn hóa và ứng dụng",
+      "units": [
+        {
+          "title": "Phong tục và lễ hội",
+          "goals": [
+            "Gọi tên sự kiện văn hóa",
+            "Hỏi và kể về phong tục"
+          ],
+          "items": [
+            "Từ khóa văn hóa được cộng đồng duyệt",
+            "Phỏng vấn người cao tuổi"
+          ],
+          "audio_needed": true
+        },
+        {
+          "title": "Dân ca, truyện kể và tri thức dân gian",
+          "goals": [
+            "Nghe hiểu tư liệu ngắn",
+            "Ghi nhận từ cổ và biến thể"
+          ],
+          "items": [
+            "Thu âm có đồng thuận",
+            "Bản chép và bản dịch đã duyệt"
+          ],
+          "audio_needed": true
+        }
+      ]
+    }
+  ]
+}
